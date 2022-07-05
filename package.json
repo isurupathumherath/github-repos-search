@@ -1,7 +1,7 @@
 {
-  "name": "github-repos-search",
-  "version": "1.0.0",
-  "description": "",
+  "name": "github-repos-search-username-isuru",
+  "version": "1.0.1",
+  "description": "This can be used to search GitHub repositories using the username",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
